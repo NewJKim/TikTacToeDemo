@@ -1,6 +1,7 @@
 # Tic-Tac-Toe
 
-**Author:** [Kim]
+**Author:** James Kim
+
 **Course:** CS 3560
 
 ---
@@ -94,7 +95,7 @@ public enum Mark {
 
 
 ---
-Test Results
+## Test Results
 
 All tests were executed directly in IntelliJ IDEA using the built‑in JUnit 5 runner.
 Both BoardTest and GameTest ran successfully with all test cases passing (green).
