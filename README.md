@@ -68,9 +68,9 @@ This project implements Tic-Tac-Toe in Java
 
 How to Run
 
-Simply open the project in IntelliJ IDEA (or another IDE), right‑click ConsoleApp.java in src/main/java/cpp/tictactoe/, and choose Run 'ConsoleApp.main()'.
+Simply open the project in IntelliJ IDEA (or another IDE), right‑click ConsoleApp.java in src/main/java/cpp, and choose Run 'ConsoleApp.main()'.
 
-To run tests, right‑click the test/java/cpp/tictactoe folder (or any test class) and choose Run 'All Tests'.
+To run tests, right‑click the test/java/cpp folder (or any test class) and choose Run 'All Tests'.
 
 ---
 
